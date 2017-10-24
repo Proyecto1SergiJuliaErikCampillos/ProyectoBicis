@@ -94,7 +94,6 @@
     })(window,document,'//static.hotjar.com/c/hotjar-','.js?sv=');
 </script>
 </head>
-
 <body class="page-template page-template-template-default page-template-template-default-php page page-id-110 group-blog wpb-js-composer js-comp-ver-5.2.1 vc_responsive">
 
     <div id="wrapper">
@@ -175,180 +174,33 @@
 
 							<li id="ctl17_rItems_rootLi_0">
 	                            <a id="ctl17_rItems_hlItem_0" data-submenu="theBike" href="#">The Bike</a>
-	                            <ul id="ctl17_rItems_phSub_0">
-	                                <li>
-	                                    <a href="../bicicleta/index.html" id="ctl17_rItems_ctl00_0_rItems_0_hlItem_0" target="">
-	                                        <span class="media">
-				                    		<img src="../../cdn-web.brompton.com/_/media/Images/Menu-Images/The%20Bike%20Nav.jpeg" alt="The Bike" width="164" height="100" />
-				                			</span>
-	                                        <span class="title" style="margin-top: 17px;"><b>The Bike</b></span>
-	                                    </a>
-	                                </li>
-
-	                                <li>
-	                                    <a href="../bicicleta/como-funciona/index.html" id="ctl17_rItems_ctl00_0_rItems_0_hlItem_0" target="">
-	                                        <span class="media">
-				                    		<img src="../../cdn-web.brompton.com/_/media/Images/Menu-Images/How%20it%20works%20Nav.jpeg" alt="The Bike" width="164" height="100" />
-				                			</span>
-	                                        <span class="title" style="margin-top: 17px;"><b>Cómo funciona</b></span>
-	                                    </a>
-	                                </li>
-
-	                                <li>
-	                                    <a href="../bicicleta/beneficios-ventajas/index.html" id="ctl17_rItems_ctl00_0_rItems_0_hlItem_0" target="">
-	                                        <span class="media">
-				                    		<img src="../../cdn-web.brompton.com/_/media/Images/Menu-Images/Benefits%20Nav.jpeg" alt="The Bike" width="164" height="100" />
-				                			</span>
-	                                        <span class="title" style="margin-top: 17px;"><b>Beneficios</b></span>
-	                                    </a>
-	                                </li>
-
-	                                <li>
-	                                    <a href="../bicicleta/inglesa-londres/index.html" id="ctl17_rItems_ctl00_0_rItems_0_hlItem_0" target="">
-	                                        <span class="media">
-				                    		<img src="../../cdn-web.brompton.com/_/media/Images/Menu-Images/MAde%20In%20London%20Nav.jpeg" alt="The Bike" width="164" height="100" />
-				                			</span>
-	                                        <span class="title" style="margin-top: 17px;"><b>Made in London</b></span>
-	                                    </a>
-	                                </li>
-
-	                                <li>
-	                                    <a href="../bicicleta/ediciones-especiales-limitadas/index.html" id="ctl17_rItems_ctl00_0_rItems_0_hlItem_0" target="">
-	                                        <span class="media">
-				                    		<img src="../../cdn-web.brompton.com/_/media/Images/Menu-Images/01%20Black%20%20Black%20Brompton%20Unfolded%20nav.jpeg" alt="The Bike" width="164" height="100" />
-				                			</span>
-	                                        <span class="title" style="margin-top: 17px;"><b>Edicion especial</b></span>
-	                                    </a>
-	                                </li>
-
-									<li>
-	                                    <a href="../bicicleta/brompton-electrica/index.html" id="ctl17_rItems_ctl00_0_rItems_0_hlItem_0" target="">
-	                                        <span class="media">
-				                    		<img src="../wp-content/uploads/2017/09/electricamenu.jpg" alt="The Bike" width="164" height="100" />
-				                			</span>
-	                                        <span class="title" style="margin-top: 17px;"><b>Brompton eléctrica</b></span>
-	                                    </a>
-	                                </li>
-
-	                            </ul>
-	                        </li>
+	                            </li>
 							<li id="ctl17_rItems_rootLi_0">
 	                            <a id="ctl17_rItems_hlItem_0" data-submenu="theBike" href="index.html">Promociones</a>
 							</li>
 
 	                        <li id="ctl17_rItems_rootLi_0">
 	                            <a id="ctl17_rItems_hlItem_0" data-submenu="theBike" href="#">Actualidad</a>
-	                            <ul id="ctl17_rItems_phSub_0">
-	                                <li>
-	                                    <a href="../actualidad/noticias/index.html" id="ctl17_rItems_ctl00_0_rItems_0_hlItem_0" target="">
-	                                        <span class="media">
-				                    		<img src="../../cdn-web.brompton.com/_/media/Images/Menu-Images/Journey%20Nav.jpg" alt="The Bike" width="164" height="100" />
-				                			</span>
-	                                        <span class="title" style="margin-top: 17px;"><b>Noticias</b></span>
-	                                    </a>
-	                                </li>
-
-	                                <li>
-	                                    <a href="../actualidad/eventos/index.html" id="ctl17_rItems_ctl00_0_rItems_0_hlItem_0" target="">
-	                                        <span class="media">
-				                    		<img src="../../cdn-web.brompton.com/_/media/Images/Menu-Images/Benefits%20Nav.jpeg" alt="The Bike" width="164" height="100" />
-				                			</span>
-	                                        <span class="title" style="margin-top: 17px;"><b>Eventos</b></span>
-	                                    </a>
-	                                </li>
-	                            </ul>
+	   	                        </li>
+	                        <li id="ctl17_rItems_rootLi_0">
+	                            <a id="ctl17_rItems_hlItem_0" data-submenu="theBike" href="#">Club House</a>
 	                        </li>
 	                        <li id="ctl17_rItems_rootLi_0">
-	                            <a id="ctl17_rItems_hlItem_0" data-submenu="theBike" href="../club-house/index.html">Club House</a>
-	                        </li>
-	                        <li id="ctl17_rItems_rootLi_0">
-	                            <a id="ctl17_rItems_hlItem_0" data-submenu="theBike" href="../tienda-junction/index.html">Tienda Junction</a>
-	                            <ul id="ctl17_rItems_phSub_0">
-	                                <li>
-	                                    <a href="../tienda-junction/index.html" id="ctl17_rItems_ctl00_0_rItems_0_hlItem_0" target="">
-	                                        <span class="media">
-				                    		<img src="../wp-content/uploads/2016/06/slider2-1.jpg" alt="The Bike" width="164" height="100" />
-				                			</span>
-	                                        <span class="title" style="margin-top: 17px;"><b>Visita Virtual</b></span>
-	                                    </a>
-	                                </li>
-
-	                                <li>
-	                                    <a href="../equipo-brompton/index.html" id="ctl17_rItems_ctl00_0_rItems_0_hlItem_0" target="">
-	                                        <span class="media">
-				                    		<img src="../wp-content/uploads/2016/08/equipo.png" alt="The Bike" width="164" height="100" />
-				                			</span>
-	                                        <span class="title" style="margin-top: 17px;"><b>Equipo</b></span>
-	                                    </a>
-	                                </li>
-	                            </ul>
+	                            <a id="ctl17_rItems_hlItem_0" data-submenu="theBike" href="#">Tienda Junction</a>
 	                        </li>
 	                        <li id="ctl17_rItems_rootLi_0">
 	                            <a id="ctl17_rItems_hlItem_0" data-submenu="theBike" href="#">Comprar</a>
-	                            <ul id="ctl17_rItems_phSub_0">
-	                                <li>
-	                                    <a href="../comprar/por-que-comprar/index.html" id="ctl17_rItems_ctl00_0_rItems_0_hlItem_0" target="">
-	                                        <span class="media">
-				                    		<img src="../../cdn-web.brompton.com/_/media/Images/Menu-Images/brompton%20junction%20maintenance%20event.jpg" alt="The Bike" width="164" height="100" />
-				                			</span>
-	                                        <span class="title" style="margin-top: 17px;"><b>¿Por qué comprar?</b></span>
-	                                    </a>
-	                                </li>
-
-	                                <li>
-	                                    <a href="../../www.brompton.com/Build-your-Brompton.html" id="ctl17_rItems_ctl00_0_rItems_0_hlItem_0" target="">
-	                                        <span class="media">
-				                    		<img src="../../cdn-web.brompton.com/_/media/Images/Menu-Images/Build%20Nav.jpeg" alt="The Bike" width="164" height="100" />
-				                			</span>
-	                                        <span class="title" style="margin-top: 17px;"><b>Configurador</b></span>
-	                                    </a>
-	                                </li>
-
-	                                <li>
-	                                    <a href="../comprar/productos/index.html" id="ctl17_rItems_ctl00_0_rItems_0_hlItem_0" target="">
-	                                        <span class="media">
-				                    		<img src="../../cdn-web.brompton.com/_/media/Images/Menu-Images/Collaborations%20Nav.jpeg" alt="The Bike" width="164" height="100" />
-				                			</span>
-	                                        <span class="title" style="margin-top: 17px;"><b>Accesorios</b></span>
-	                                    </a>
-	                                </li>
-                                    
-                                    <li>
-	                                    <a href="../precio-brompton/index.html" id="ctl17_rItems_ctl00_0_rItems_0_hlItem_0" target="">
-	                                        <span class="media">
-				                    		<img src="../wp-content/uploads/2017/09/p1menu.jpg" alt="Segunda mano" width="164" height="100" />
-				                			</span>
-	                                        <span class="title" style="margin-top: 17px;"><b>Precio Brompton</b></span>
-	                                    </a>
-	                                </li>
-	                            </ul>
 	                        </li>
 	                        <li id="ctl17_rItems_rootLi_0">
 	                            <a id="ctl17_rItems_hlItem_0" data-submenu="theBike" href="#">Servicios</a>
-	                            <ul id="ctl17_rItems_phSub_0" style="    text-align: right !important; ">
-	                                <li>
-	                                    <a href="../servicio-clientes/index.html" id="ctl17_rItems_ctl00_0_rItems_0_hlItem_0" target="">
-	                                        <span class="media">
-				                    		<img src="../../cdn-web.brompton.com/_/media/Images/Menu-Images/Events%20nav.jpeg" alt="The Bike" width="164" height="100" />
-				                			</span>
-	                                        <span class="title" style="margin-top: 17px;"><b>Servicios a clientes</b></span>
-	                                    </a>
-	                                </li>
-
-	                                <li>
-	                                    <a href="../servicio-tecnico-taller/index.html" id="ctl17_rItems_ctl00_0_rItems_0_hlItem_0" target="">
-	                                        <span class="media">
-				                    		<img src="../../cdn-web.brompton.com/_/media/Images/Menu-Images/MAde%20In%20London%20Nav.jpeg" alt="The Bike" width="164" height="100" />
-				                			</span>
-	                                        <span class="title" style="margin-top: 17px;"><b>Soporte Técnico</b></span>
-	                                    </a>
-	                                </li>
-	                            </ul>
 	                        </li>
 
 	                        <li id="ctl17_rItems_rootLi_0">
-	                            <a id="ctl17_rItems_hlItem_0" data-submenu="theBike" href="../contacta/index.html">Contacta</a>
+	                            <a id="ctl17_rItems_hlItem_0" data-submenu="theBike" href="#">Contacta</a>
 							</li>
+							<li id="ctl17_rItems_rootLi_0">
+                                <a id="ctl17_rItems_hlItem_0" data-submenu="theBike" href="../BicisRobadas/index.html">Bicis Robadas</a>
+                            </li>
 
 	                    </ul>
 	                </nav>
@@ -363,7 +215,6 @@
                 </div>
             </div>
         </div>
-
 <link rel='stylesheet' id='js_composer_front-css'  href='../wp-content/plugins/js_composer/assets/css/js_composer.mina288.css?ver=4.8.1' type='text/css' media='all' />
 <script type='text/javascript' src='../wp-content/plugins/js_composer/assets/js/vendors/woocommerce-add-to-carta288.js?ver=4.8.1'></script>
 <!--[if lte IE 9]><link rel="stylesheet" type="text/css" href="https://www.bromptonjunctionbcn.com/wp-content/plugins/js_composer/assets/css/vc_lte_ie9.min.css" media="screen"><![endif]--><!--[if IE  8]><link rel="stylesheet" type="text/css" href="https://www.bromptonjunctionbcn.com/wp-content/plugins/js_composer/assets/css/vc-ie8.min.css" media="screen"><![endif]-->
@@ -372,8 +223,6 @@
 
 <!---------------------------------------------------------------------Final de cabecera y menú------------------------------------------------------------------------>
 
-
-
 <style>
 .hero-centered.red:after,
 .hero-centered.branding-red:after,
@@ -381,6 +230,7 @@
   border-top-color: #cbdd61 !important;
 }
 </style>
+
 <div id="main_0_pnlContainer" class="hero-centered red" style="background-color: #cbdd61">
 
     <div class="content">
@@ -401,13 +251,39 @@
 	<div class="wpb_raw_code wpb_content_element wpb_raw_html">
 		<div class="wpb_wrapper">
 			    <div class="chessboard">
+<?php
+$conexion=mysqli_connect("localhost", "root", "", "proyecto1sergijuliaerikcampillos");
+mysqli_query($conexion , "SET NAMES 'utf8'");
 
+                $sq = "SELECT * FROM anunci WHERE anu_marca like '%$_REQUEST[marca]%' AND anu_model like '%$_REQUEST[modelo]%' AND anu_color like '%$_REQUEST[color]%' AND anu_ubicacio_robatori like '%$_REQUEST[poblacion]%' AND anu_numero_serie like '%$_REQUEST[numeroserie]%' ORDER BY anu_data_anunci DESC";
+                $consulta = mysqli_query($conexion, $sq);
+
+
+    $filas = mysqli_num_rows($consulta);
+     if (($filas) == 0) {
+        echo '<br><br><br><center><div class="content"><h2><u>Lo sentimos! Tu búsqueda no ha dado ningún resultado </u></h2></div></center><br><br><br>';
+
+    }
+        for ($i= 0; $i < $filas ; $i++) { 
+
+
+    while ($fila = mysqli_fetch_assoc($consulta)) {
+
+        ?>
     <div class="split-image-text">
 
-        <div class="content">
-            <h2>Bici robada ejemplo</h2>
 
-            <p> <strong>Bici robada ejemplo</strong> Lorem Ipsum es simplemente el texto de relleno de las imprentas y archivos de texto. Lorem Ipsum ha sido el texto de relleno estándar de las industrias desde el año 1500, cuando un impresor (N. del T. persona que se dedica a la imprenta) desconocido usó una galería de textos y los mezcló de tal manera que logró hacer un libro de textos especimen. No sólo sobrevivió 500 años,
+        <div class="content">
+            <h2><u>Marca de la bicicleta: <?php echo $fila["anu_marca"]; ?> </u><br/></h2>
+
+            <p> <strong>Modelo: </strong> <?php echo $fila["anu_model"]; ?><br/>
+                <strong>Zona del robo: </strong><?php echo $fila["anu_ubicacio_robatori"]; ?><br/>
+                <strong>Descripción del robo: </strong><?php echo $fila["anu_descripcio_robatori"]; ?><br/>
+                <strong>Color: </strong><?php echo $fila["anu_color"]; ?><br/>
+                <strong>Fecha del robo: </strong><?php echo $fila["anu_data_robatori"]; ?><br/>
+                <strong>Correo de contacto: </strong><?php echo $fila["anu_correo_contacto"]; ?><br/>
+                <strong>Teléfono de contacto: </strong><?php echo $fila["anu_telf_contacto"]; ?><br/>
+                <strong>Recompensa: </strong> <?php echo $fila["anu_compensacio"]; ?>€<br/>
 
             </p>
 
@@ -415,30 +291,19 @@
         </div>
         <div id="main_1_chessElements_mediaWrraper_0" class="media" style="margin-top: 0px !important;">
 
-            <div class="image backgroud-cover" style="background-image: url('../BicisRobadas/fotosbicisrobadas/scottAspect950.jpg');"><img src="../BicisRobadas/fotosbicisrobadas/scottAspect950.jpg" alt="Black Edition close up" style="opacity: 0;"></div>
+            <div class="image backgroud-cover"><img src="../fotosbicisrobadas/<?php echo $fila["anu_foto"];?>" alt="Black Edition close up" style="opacity: 0;"> </div>
 
         </div>
     </div>
-
-    <div class="split-image-text">
-
-        <div class="content">
-            <h2>Bici robada ejemplo</h2>
-            <p></p>
-            <p>
-                <strong>Bici robada ejemplo</strong> Lorem Ipsum es simplemente el texto de relleno de las imprentas y archivos de texto. Lorem Ipsum ha sido el texto de relleno estándar de las industrias desde el año 1500, cuando un impresor (N. del T. persona que se dedica a la imprenta) desconocido usó una galería de textos y los mezcló de tal manera que logró hacer un libro de textos especimen. No sólo sobrevivió 500 años,
-            </p>
-            <p></p>
-        </div>
-        <div id="main_1_chessElements_mediaWrraper_1" class="media" style="margin-top: 0px;">
-
---
-
-            <div class="image backgroud-cover" style="background-image: url('../BicisRobadas/fotosbicisrobadas/FujiNevada.jpg');"><img src="../BicisRobadas/fotosbicisrobadas/FujiNevada.jpg" alt="Close Up Brompton Nickel Edition" style="opacity: 0;"></div>
-
-        </div>
+    <?php
+        }
+    }
+    ?>
+       <input type="hidden" name="form_id" value="55250" />
+                <br>
+                <center><a href="../bicisrobadas/index.html"> <input id="saveForm" class="button_text" type="submit" name="submit" value="Volver al fomulario" /></a></center> 
     </div>
-
+    <a href="#" class="back-to-top shown">Volver arriba</a>
 </div>
 		</div>
 	</div>
@@ -494,6 +359,7 @@
         </div>
 
     </div>
+
 
 <!---------------------------------------------------------------------Final de body------------------------------------------------------------------------>
 
@@ -827,6 +693,7 @@ color:#fff
 <script type='text/javascript' src='../wp-includes/js/jquery/jqueryb8ff.js?ver=1.12.4'></script>
 <script type='text/javascript' src='../wp-includes/js/jquery/jquery-migrate.min330a.js?ver=1.4.1'></script>
 <script type='text/javascript' src='../wp-content/plugins/js_composer/assets/js/dist/js_composer_front.min7752.js?ver=5.2.1'></script>
+
 </body>
 
 <!-- Mirrored from www.bromptonjunctionbcn.com/promociones/ by HTTrack Website Copier/3.x [XR&CO'2014], Wed, 18 Oct 2017 16:06:16 GMT -->
